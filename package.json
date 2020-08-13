@@ -1,0 +1,18 @@
+{
+  "name": "Curse-webpack-4",
+  "version": "1.0.0",
+  "description": "practicando webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "@zalotesta",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2"
+  }
+}
