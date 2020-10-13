@@ -1,1 +1,3 @@
-# learning-webpack-4
+# Learning webpack 4:
+
+First practices with webpack.
